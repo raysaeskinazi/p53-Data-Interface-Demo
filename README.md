@@ -10,7 +10,7 @@ This repository serves as a visual demonstration of a web-based data visualizati
 ### ⚠️ Intellectual Property & Privacy Notice
 *The source code, backend algorithms, and raw datasets for this tool are currently kept **PRIVATE**. This project is part of an ongoing, longitudinal undergraduate thesis research at Acıbadem University. The screenshots provided above demonstrate the functional UI, data filtering capabilities, and exploratory data analysis (EDA) features.*
 
-# Figure 1 and 3: Interactive Dashboard for p53 Mutation Analysis and 3D Visualization (With different backgorund themes and investigation options
+# Figure 1 and 3: Interactive Dashboard for p53 Mutation Analysis and 3D Visualization (With different background themes and investigation options
 <img width="1701" height="917" alt="demo1" src="https://github.com/user-attachments/assets/6362a368-ed89-428a-836c-0adf3cca644b" />
 <img width="1299" height="915" alt="demo2" src="https://github.com/user-attachments/assets/df9f5458-6074-4346-9e0a-6250c548ea21" />
 
